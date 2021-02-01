@@ -177,3 +177,6 @@ dmypy.json
 
 # profiling data
 .prof
+
+# Project data
+covid-data.csv
