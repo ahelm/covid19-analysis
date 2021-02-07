@@ -180,3 +180,6 @@ dmypy.json
 
 # Project data
 covid-data.csv
+
+# vscode data
+.vscode
